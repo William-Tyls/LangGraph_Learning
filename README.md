@@ -5,14 +5,14 @@
 
 ## 学习顺序
 
-| 文件 | 学习内容 | 是否调用模型 API |
-| --- | --- | --- |
-| `01_model_call.py` | 消息角色、模型调用、响应内容与 Token 信息 | 是 |
-| `02_structured_output.py` | Pydantic Schema、意图识别、结构化 JSON 输出 | 是 |
-| `03_tool_calling.py` | 手动执行工具调用，将 ToolMessage 返回模型 | 是 |
-| `04_langchain_agent.py` | create_agent、多工具协作、ToolStrategy 结构化结果 | 是 |
-| `05_langgraph_workflow copy.py` | State、节点、条件边、审批通过与拒绝分支 | 否 |
-| `06_langgraph_interrupt.py` | interrupt、Checkpoint、thread_id 与 Command 恢复 | 否 |
+| 文件 | 学习内容 |
+| --- | --- |
+| `01_model_call.py` | 消息角色、模型调用、响应内容与 Token 信息 |
+| `02_structured_output.py` | Pydantic Schema、意图识别、结构化 JSON 输出 |
+| `03_tool_calling.py` | 手动执行工具调用，将 ToolMessage 返回模型 |
+| `04_langchain_agent.py` | create_agent、多工具协作、ToolStrategy 结构化结果 |
+| `05_langgraph_workflow copy.py` | State、节点、条件边、审批通过与拒绝分支 |
+| `06_langgraph_interrupt.py` | interrupt、Checkpoint、thread_id 与 Command 恢复 |
 
 ## 安装
 
