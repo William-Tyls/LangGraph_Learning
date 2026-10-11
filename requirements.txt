@@ -1,0 +1,5 @@
+# Direct dependencies from the working Python 3.12 environment
+langchain==1.4.4
+langchain-openai==1.7.0
+langgraph==1.2.14
+pydantic==2.14.0
